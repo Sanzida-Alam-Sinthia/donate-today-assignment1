@@ -6,7 +6,7 @@ body {
     padding: 0px;
 }
 
-.First-Banner-texts {
+.First-Banner-container {
     text-align: center;
     color: white;
     padding-bottom: 100px;
@@ -55,4 +55,71 @@ body {
     padding-right: 90px;
     color: light whitesmoke;
 
+}
+
+.second-part-heading {
+
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.second-part-container {
+    margin-top: 60px;
+
+}
+
+.second-part-container p {
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 90px;
+    color: lightslategray;
+    font-size: smaller;
+    margin-bottom: 35px;
+    justify-content: center;
+}
+
+.money-button {
+    display: flex;
+
+    justify-content: center;
+    padding-left: 50%;
+    padding-right: 50%;
+
+}
+
+.btn {
+    border: 0px solid aliceblue;
+    background-color: linear-gradient(white, grey);
+
+    padding: 30px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    align-content: center;
+    border-radius: 5px;
+    color: deep gray;
+    font-weight: bold;
+
+}
+
+.btn:hover {
+    background-color: tomato;
+}
+
+.hundred {
+    margin-right: 20px;
+}
+
+.two-hundred {
+
+    margin-right: 20px;
+}
+
+.five-hundred {
+    margin-right: 20px;
+}
+
+.thousand {
+    margin-right: 20px;
 }
