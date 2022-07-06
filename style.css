@@ -9,7 +9,7 @@ body {
 .First-Banner-container {
     text-align: center;
     color: white;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
     padding-top: 20px;
 
 }
@@ -24,16 +24,11 @@ body {
 
 .Donate-button {
     text-decoration: none;
-    background-image: linear-gradient(orange, red);
-    font-size: small;
-
-
+    background-image: linear-gradient(tomato, red);
+    font-size: medium;
     margin-top: 0px;
     margin-bottom: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-
+    padding: 10px;
     border-radius: 2px;
     color: white;
     font-weight: 700;
@@ -54,6 +49,7 @@ body {
     padding-left: 90px;
     padding-right: 90px;
     color: light whitesmoke;
+    padding-bottom: 10px;
 
 }
 
@@ -72,10 +68,10 @@ body {
 
 .second-part-container p {
     text-align: center;
-    padding-left: 90px;
-    padding-right: 90px;
+    padding-left: 300px;
+    padding-right: 300px;
     color: lightslategray;
-    font-size: smaller;
+
     margin-bottom: 35px;
     justify-content: center;
 }
@@ -86,6 +82,7 @@ body {
     justify-content: center;
     padding-left: 50%;
     padding-right: 50%;
+    padding-bottom: 30px;
 
 }
 
@@ -100,6 +97,7 @@ body {
     border-radius: 5px;
     color: deep gray;
     font-weight: bold;
+
 
 }
 
@@ -122,4 +120,108 @@ body {
 
 .thousand {
     margin-right: 20px;
+}
+
+.other-amount {
+    justify-content: center;
+    color: lightgray;
+    padding-bottom: 10px;
+}
+
+.other-amount-input {
+    justify-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: none;
+    color: rgb(172, 165, 165);
+    text-align: center;
+}
+
+.other-amount-hr {
+    position: relative;
+    width: 550px;
+
+}
+
+.second-section-donate-btn {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 46%;
+    margin-bottom: 80px;
+
+
+}
+
+.plan-container p {
+    color: rgb(172, 165, 165);
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+#plan-para {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+
+.plan-1-box {
+
+    display: flex;
+
+    flex-flow: column wrap;
+    background-color: powderblue;
+    width: 250px;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    box-shadow: 8px 8px 16px rgb(17, 16, 16);
+    border-radius: 5px;
+    border: 10px;
+
+
+}
+
+.plan-image {
+    padding-top: 5px;
+}
+
+.plans {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 50px;
+}
+
+.plan-description p {
+    line-height: 1.5;
+
+}
+
+#plan-2 {
+    background-color: pink;
+}
+
+#plan-3 {
+    background-color: lightyellow;
+}
+
+.my-updates p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: rgb(172, 165, 165);
+
 }
