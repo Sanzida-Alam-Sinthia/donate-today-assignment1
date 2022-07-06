@@ -225,3 +225,58 @@ body {
     color: rgb(172, 165, 165);
 
 }
+
+.email-part {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-image: url(yellow.png);
+    background-size: 300px 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+
+}
+
+.email {
+
+    border: 0;
+    border-color: transparent;
+    padding: 0;
+    color: gray;
+    text-align: center;
+}
+
+#mail-button {
+    background-color: tomato;
+    color: white;
+
+}
+
+.footer-class {
+    background-color: black;
+    background-size: 100%;
+
+}
+
+.humble {
+    font-family: 'Dancing Script', cursive;
+    color: red;
+    font-style: Bold;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    padding-bottom: 10px;
+
+}
+
+.footer-class p {
+    color: lightslategray;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: smaller;
+
+
+
+}
