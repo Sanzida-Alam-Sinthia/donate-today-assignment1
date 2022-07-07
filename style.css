@@ -246,18 +246,27 @@ body {
 
 }
 
-.email {
+#email {
 
     border: 0;
     border-color: transparent;
-    padding: 0;
+    padding: 3px;
     color: gray;
-    text-align: center;
+    text-align: left;
+    background-color: lightgray;
 }
 
 #mail-button {
     background-color: tomato;
     color: white;
+    margin-left: -4px;
+    border: 0px;
+    border-color: transparent;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 1px;
+    background-size: 100%;
+
 
 }
 
@@ -280,6 +289,7 @@ body {
 
 .happy-face-pics {
     width: auto;
+
 }
 
 .footer-class {
