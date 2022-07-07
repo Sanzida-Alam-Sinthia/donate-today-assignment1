@@ -66,6 +66,10 @@ body {
 
 }
 
+.second-part {
+    margin-bottom: 50px;
+}
+
 .second-part-container p {
     text-align: center;
     padding-left: 300px;
@@ -157,7 +161,7 @@ body {
     color: rgb(172, 165, 165);
     justify-content: center;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
 
@@ -216,6 +220,10 @@ body {
     background-color: lightyellow;
 }
 
+.my-updates {
+    margin-top: 40px;
+}
+
 .my-updates p {
     margin-left: auto;
     margin-right: auto;
@@ -253,9 +261,31 @@ body {
 
 }
 
+.happy-face {
+    display: flex;
+    padding: 150px;
+    justify-content: space-between;
+}
+
+.happy-face-texts {
+    padding-right: 200px;
+    padding-left: 100px;
+
+}
+
+.happy-face p {
+    color: rgb(172, 165, 165);
+
+}
+
+.happy-face-pics {
+    width: auto;
+}
+
 .footer-class {
     background-color: black;
     background-size: 100%;
+    background-size: cover;
 
 }
 
@@ -265,7 +295,7 @@ body {
     font-style: Bold;
     font-weight: 700;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 25px;
     font-size: larger;
     padding-bottom: 10px;
 
