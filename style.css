@@ -276,6 +276,12 @@ body {
     justify-content: space-between;
 }
 
+#do-u-knw {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
 .happy-face-texts {
     padding-right: 200px;
     padding-left: 100px;
@@ -285,10 +291,12 @@ body {
 .happy-face p {
     color: rgb(172, 165, 165);
 
+
 }
 
 .happy-face-pics {
     width: auto;
+    padding-right: 20px;
 
 }
 
